@@ -1263,6 +1263,22 @@ Suggested version progression:
 
 Domain-specific templates may use their own version identifiers while stating the SBTIP version they implement.
 
+SBTIP is an interaction initialization protocol.
+
+Rather than beginning an AI conversation from one dominant framing,
+SBTIP initializes several nearby conceptual directions, allowing
+comparison before commitment.
+
+Its goal is to preserve conceptual mobility during the earliest phase
+of interaction so that stabilization occurs deliberately rather than
+accidentally.
+
+The remainder of this document serves two purposes:
+
+1. It specifies the protocol.
+2. It provides the canonical reference implementation.
+
+
 License
 
 This project is intended for copyleft publication.
